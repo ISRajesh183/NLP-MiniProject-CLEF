@@ -76,8 +76,4 @@ The codebase focuses on evaluating and comparing multiple techniques to improve 
 
 ## Authors
 
-J Ashwin Balagi
-Gopika Ganesan
-I S Rajesh
-Siddharth M
-Tarun Suresh
+J Ashwin Balagi, Gopika Ganesan, I S Rajesh, Siddharth M, Tarun Suresh
